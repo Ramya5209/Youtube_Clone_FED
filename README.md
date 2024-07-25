@@ -1,0 +1,1 @@
+This project is a YouTube clone built using HTML, CSS, and Bootstrap. The aim of this project is to replicate the front-end design and user interface of the popular video-sharing platform, YouTube. This clone demonstrates the use of modern web technologies to create a responsive and visually appealing web application.
